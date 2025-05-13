@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f7;
+    color: #333;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.chart-container {
+    width: 80%;
+    margin: auto;
+}
+
+#alerts {
+    margin-top: 20px;
+    color: red;
+    font-weight: bold;
+}
